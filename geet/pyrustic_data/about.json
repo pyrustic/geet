@@ -1,0 +1,11 @@
+{
+    "author": "Pyrustic Evangelist",
+    "description": "Get, install, and run the latest release of a compatible app published on Github",
+    "url": "https://github.com/pyrustic/geet",
+    "email": "pyrustic@protonmail.com",
+    "dev_mode": false,
+    "project_name": "geet",
+    "project_title": "Geet",
+    "version": "0.0.3",
+    "install_script": null
+}

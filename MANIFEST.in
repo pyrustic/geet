@@ -1,0 +1,2 @@
+include geet/*.json
+recursive-include geet/pyrustic_data *
